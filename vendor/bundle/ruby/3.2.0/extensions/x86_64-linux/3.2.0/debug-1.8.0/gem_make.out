@@ -1,0 +1,19 @@
+current directory: /home/shunri/git/mywebapp/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+/home/shunri/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/shunri/git/mywebapp/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231130-18895-exn3am sitelibdir\=./.gem.20231130-18895-exn3am clean
+
+current directory: /home/shunri/git/mywebapp/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231130-18895-exn3am sitelibdir\=./.gem.20231130-18895-exn3am
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/shunri/git/mywebapp/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231130-18895-exn3am sitelibdir\=./.gem.20231130-18895-exn3am install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20231130-18895-exn3am/debug
+
+current directory: /home/shunri/git/mywebapp/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231130-18895-exn3am sitelibdir\=./.gem.20231130-18895-exn3am clean
